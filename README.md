@@ -2,9 +2,9 @@
 
 __Project Description__: A website manages clients' orders.
 
-__Live Demo__:
+<!-- __Live Demo__:
  - [Back-end on Heroku](https://order-managment.herokuapp.com/api/orders)
- - [Front-end on Firebase](https://order-mag.firebaseapp.com/)
+ - [Front-end on Firebase](https://order-mag.firebaseapp.com/) -->
 
 __Technologies/Tools__
  - Programming Language: Typescript (client and server)
